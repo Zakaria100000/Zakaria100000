@@ -14,11 +14,9 @@
 - 🔭 I’m currently working on **web and data engineering projects**.
 - 🌱 I’m learning **advanced techniques in Web Development and Data Engineering**.
 - 👯 I’m available for **freelancing and open to job opportunities**.
-- 📝 I share my knowledge on [Hashnode](YOUR_BLOG_URL).
 - 💬 Ask me about **React, Node.js, Apache Kafka, and Docker**.
-- 📫 Reach me at **youremail@example.com**.
-- 📄 Here's my [Resume](LINK_TO_YOUR_RESUME).
-- 😄 Pronouns: He/Him
+- 📫 Reach me at **zakariaalizouaoui@gmail.com**.
+- 📄 Here's my [Resume](https://drive.google.com/file/d/1t3eK0BxzI5NMinVlZ1iOWnSbmcMV5BjF/view) in English and my [CV](https://drive.google.com/file/d/1aNIK_aE4HQnYLRmG4cdzL57LPtBE_XFM/view?usp=sharing) in french
 
 ## 🛠️ My Skills
 
@@ -48,12 +46,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zakaria100000&theme=algolia&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
-## 🐍 Watch my Contribution Graph get eaten by the Snake 🐍
-
-<p align="center">
-  <img src="https://github.com/Zakaria100000/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
 </p>
 
 ---
