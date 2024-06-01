@@ -31,7 +31,7 @@
 ### Programming languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,css,html,docker,kafka,aws,mongodb,git&perline=5" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,expressjs,java,python,css,html,docker,kafka,mongodb,figma,git,gitlab,vscode,idea,gcp,materialui,maven,postgres,mysql,postman,powershell,npm,linux&perline=5" />
 </p>
 
 ### Connect with Me
